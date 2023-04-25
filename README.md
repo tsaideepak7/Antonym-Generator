@@ -1,2 +1,2 @@
 # Antonym-Generator
-Generates antonym for the given word..
+Generates antonym for the given word
